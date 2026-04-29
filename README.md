@@ -4,7 +4,7 @@ Fullstack Developer passionate about building modern web applications with scala
 
 ---
 
-## Technical Skills & Tools
+### Technical Skills & Tools
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -31,10 +31,10 @@ Fullstack Developer passionate about building modern web applications with scala
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
-## Architecture & Design
+### Architecture & Design
 MVC • Monolithic Architecture • Microservices • Clean Architecture
 
-## Stats
+### Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vietanh-dev-stack&show_icons=true&theme=tokyonight&hide_border=true" />
