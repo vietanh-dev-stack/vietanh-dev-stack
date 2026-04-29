@@ -31,7 +31,7 @@ Fullstack Developer passionate about building modern web applications with scala
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
-### Architecture & Design
+## Architecture & Design
 MVC • Monolithic Architecture • Microservices • Clean Architecture
 
 ## Stats
