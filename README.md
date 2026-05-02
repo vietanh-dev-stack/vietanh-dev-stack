@@ -37,6 +37,6 @@ MVC • Monolithic Architecture • Microservices • Clean Architecture
 ### Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vietanh-dev-stack&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietanh-dev-stack&layout=donut&theme=tokyonight&hide_border=true" />
+    ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vietanh-dev-stack&show_icons=true&theme=tokyonight)
+    ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vietanh-dev-stack&layout=compact&theme=tokyonight)
 </p>
